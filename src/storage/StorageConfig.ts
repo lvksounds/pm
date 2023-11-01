@@ -1,0 +1,3 @@
+const SUPLLIERCONTROLL_COLLECTION = "@myapp2:suppliercontrol";
+
+export { SUPLLIERCONTROLL_COLLECTION };
